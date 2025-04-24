@@ -437,3 +437,5 @@ Villager Trade Enabled: true
 [24Apr2025 23:25:08.682] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 59cc3c5d-0150-35f0-aee0-7a50dc5271d5 was loaded
 [24Apr2025 23:28:01.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImpliedSubset27 has made the advancement [Monster Hunter]
 [24Apr2025 23:32:06.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImpliedSubset27 has reached the goal [Mizunoe]
+[24Apr2025 23:34:57.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImpliedSubset27 has reached the goal [Kanoto]
+[24Apr2025 23:40:44.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImpliedSubset27 moved too quickly! -6.52396880213405,7.918042862997751,-0.1718023024577633

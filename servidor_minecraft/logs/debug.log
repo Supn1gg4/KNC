@@ -1641,3 +1641,14 @@ Villager Trade Enabled: true
 [24Apr2025 23:29:30.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Apr2025 23:32:06.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImpliedSubset27 has reached the goal [Mizunoe]
 [24Apr2025 23:33:35.343] [IO-Worker-14/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-16
+[24Apr2025 23:34:30.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 23:34:30.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 23:34:57.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImpliedSubset27 has reached the goal [Kanoto]
+[24Apr2025 23:36:12.362] [IO-Worker-7/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-17
+[24Apr2025 23:36:58.539] [IO-Worker-17/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-18
+[24Apr2025 23:37:04.468] [IO-Worker-7/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-19
+[24Apr2025 23:38:15.488] [IO-Worker-11/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-20
+[24Apr2025 23:39:30.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 23:39:30.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 23:40:13.239] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
+[24Apr2025 23:40:44.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImpliedSubset27 moved too quickly! -6.52396880213405,7.918042862997751,-0.1718023024577633
