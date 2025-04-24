@@ -439,3 +439,10 @@ Villager Trade Enabled: true
 [24Apr2025 22:57:51.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImpliedSubset27 has made the advancement [Best Friends Forever]
 [24Apr2025 22:57:51.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImpliedSubset27 has made the advancement [Demon Slayer Corps]
 [24Apr2025 22:57:51.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImpliedSubset27 has reached the goal [Mizunoto]
+[24Apr2025 23:00:31.960] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImpliedSubset27 lost connection: Timed out
+[24Apr2025 23:00:31.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImpliedSubset27 left the game
+[24Apr2025 23:00:31.961] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 59cc3c5d-0150-35f0-aee0-7a50dc5271d5 was unloaded
+[24Apr2025 23:00:58.616] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImpliedSubset27[/127.2.203.147:37797] logged in with entity id 3000 at (-277.35128738306435, 76.0, -351.55614636543913)
+[24Apr2025 23:00:58.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImpliedSubset27 joined the game
+[24Apr2025 23:00:58.634] [Server thread/INFO] [Jade/]: Syncing config to ImpliedSubset27 (59cc3c5d-0150-35f0-aee0-7a50dc5271d5)
+[24Apr2025 23:00:59.026] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 59cc3c5d-0150-35f0-aee0-7a50dc5271d5 was loaded
